@@ -30,6 +30,10 @@ Grandes telas: acima de 1200px
         width: 70%;
         height: 100%;
     }
+    div#formulario > h1{
+        text-align: center;
+        font-size: 1em;
+    }
     
 }
 
@@ -51,6 +55,9 @@ Grandes telas: acima de 1200px
     section#login > div#formulario{
         float: left;
         width: 50%;
-        height: 100%;
+    }
+    div#formulario > h1{
+        text-align: center;
+        font-size: 1.3em;
     }
 }
